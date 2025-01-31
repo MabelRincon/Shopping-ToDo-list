@@ -17,7 +17,7 @@ A simple Shopping To-Do List built with **React (Vite)** and **Tailwind CSS**. T
 ## 🚀 Final Result
 
 The final implementation is live and accessible via GitHub Pages:
-[Shopping-ToDo list]()
+[Shopping-ToDo list](https://mabelrincon.github.io/Shopping-ToDo-list/)
 
 ## 🛠 Features
 
